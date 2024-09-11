@@ -2,11 +2,12 @@
 <h4 align="center">Software Engineer with expertise in backend development, microservices, cloud computing (AWS), and integration testing. Experienced in Python, Java, Golang, and C#. Passionate about solving complex problems and building scalable systems.</h4>
 
 <h3 align="left">Connect with me:</h3>
-- 📫 Email: 10eyal10@gmail.com
+<strong>- 📫 Email: 10eyal10@gmail.com</strong>
+
 <p align="left">
-  - LinkedIn:  
+  <strong>- LinkedIn:</strong>
   <a href="https://linkedin.com/in/eyal-politansky" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eyal politansky" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eyal politansky" height="20" width="30" />
   </a>
 </p>
 
