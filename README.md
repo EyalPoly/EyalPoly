@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋 I'm Eyal</h1>
-<h4 align="center">Software Engineer with expertise in backend development, microservices, cloud computing (AWS), and integration testing. Experienced in Python, Java, Golang, and C#. Passionate about solving complex problems and building scalable systems.</h4>
+<h4 align="center">Software Engineer with expertise in backend development, microservices, cloud computing (AWS), and integration testing.
+  Experienced in Python, Java, Golang, and C#.
+  Passionate about solving complex problems and building scalable systems.</h4>
 
 <h3 align="left">Connect with me:</h3>
 <strong>- 📫 Email: 10eyal10@gmail.com</strong>
