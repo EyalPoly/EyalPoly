@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋 I'm Eyal</h1>
-<h4 align="center">Software Engineer with a strong passion for problem-solving and innovation. I am a fast learner who thrives in dynamic environments, consistently meeting deadlines and performing under pressure.</h4>
+<h4 align="center">A software engineer passionate about problem-solving and innovation. With expertise in backend development, cloud computing, and microservices, I’ve worked on large-scale distributed systems. My skills range across Python, Java, Golang, and various cloud technologies like AWS and Kubernetes. I also have a keen interest in programming with Arduino, where I enjoy creating innovative projects that blend software with hardware.I enjoy continuously learning and expanding my knowledge while driving system enhancements and company growth. You can find my projects here and explore my journey as a developer.
+
+
+
+
+
+
+.</h4>
 
 <h3 align="left">Connect with me:</h3>
 <strong>- 📫 Email: 10eyal10@gmail.com</strong>
