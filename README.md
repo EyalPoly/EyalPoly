@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Eyal</h1>
-<h4 align="center"Software Engineer with a strong passion for problem-solving and innovation. I am a fast learner who thrives in dynamic environments, consistently meeting deadlines and performing under pressure. I am seeking a software development role where I can contribute to system enhancement, drive company growth, and expand my skill set through continuous learning.</h4>
+<h4 align="center">Software Engineer with a strong passion for problem-solving and innovation. I am a fast learner who thrives in dynamic environments, consistently meeting deadlines and performing under pressure. I am seeking a software development role where I can contribute to system enhancement, drive company growth, and expand my skill set through continuous learning.</h4>
 
 <h3 align="left">Connect with me:</h3>
 <strong>- 📫 Email: 10eyal10@gmail.com</strong>
