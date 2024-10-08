@@ -7,7 +7,7 @@
 </p>
 <p align="center">
     I also have a keen interest in <strong>programming with Arduino</strong>, where I enjoy creating innovative projects that blend 
-    software with hardware.
+    software with hardware. Aditionally, I have developed engaging games using <strong>Unity</strong>, including a VR driving simulation game.
 </p>
 <p align="center">
     Explore my projects and join me on this exciting journey as a developer!
