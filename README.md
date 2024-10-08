@@ -7,8 +7,7 @@
 </p>
 <p align="center">
     I also have a keen interest in <strong>programming with Arduino</strong>, where I enjoy creating innovative projects that blend 
-    software with hardware. I thrive on <strong>continuous learning</strong> and expanding my knowledge while driving 
-    system enhancements and company growth.
+    software with hardware.
 </p>
 <p align="center">
     Explore my projects and join me on this exciting journey as a developer!
